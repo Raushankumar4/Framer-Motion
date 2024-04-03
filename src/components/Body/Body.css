@@ -1,0 +1,7 @@
+.body-container {
+  overflow: hidden;
+}
+
+.body-container p {
+  font-size: 30px;
+}

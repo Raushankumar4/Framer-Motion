@@ -1,0 +1,21 @@
+.navbar {
+  padding: 40px;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 50px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}

@@ -1,0 +1,10 @@
+.title-container {
+  overflow: hidden;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.title-container h1 {
+  font-size: 64px;
+  font-weight: bold;
+}
